@@ -1,0 +1,15 @@
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\1_helloWorld\bin\Debug\net7.0\1_helloWorld.exe
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\1_helloWorld\bin\Debug\net7.0\1_helloWorld.deps.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\1_helloWorld\bin\Debug\net7.0\1_helloWorld.runtimeconfig.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\1_helloWorld\bin\Debug\net7.0\1_helloWorld.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\1_helloWorld\bin\Debug\net7.0\1_helloWorld.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\1_helloWorld\obj\Debug\net7.0\1_helloWorld.csproj.AssemblyReference.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\1_helloWorld\obj\Debug\net7.0\1_helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\1_helloWorld\obj\Debug\net7.0\1_helloWorld.AssemblyInfoInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\1_helloWorld\obj\Debug\net7.0\1_helloWorld.AssemblyInfo.cs
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\1_helloWorld\obj\Debug\net7.0\1_helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\1_helloWorld\obj\Debug\net7.0\1_helloWorld.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\1_helloWorld\obj\Debug\net7.0\refint\1_helloWorld.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\1_helloWorld\obj\Debug\net7.0\1_helloWorld.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\1_helloWorld\obj\Debug\net7.0\1_helloWorld.genruntimeconfig.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\1_helloWorld\obj\Debug\net7.0\ref\1_helloWorld.dll

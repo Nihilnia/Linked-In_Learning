@@ -1,0 +1,15 @@
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\2_varsNDDataTypes\obj\Debug\net7.0\2_varsNDDataTypes.csproj.AssemblyReference.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\2_varsNDDataTypes\obj\Debug\net7.0\2_varsNDDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\2_varsNDDataTypes\obj\Debug\net7.0\2_varsNDDataTypes.AssemblyInfoInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\2_varsNDDataTypes\obj\Debug\net7.0\2_varsNDDataTypes.AssemblyInfo.cs
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\2_varsNDDataTypes\obj\Debug\net7.0\2_varsNDDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\2_varsNDDataTypes\bin\Debug\net7.0\2_varsNDDataTypes.exe
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\2_varsNDDataTypes\bin\Debug\net7.0\2_varsNDDataTypes.deps.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\2_varsNDDataTypes\bin\Debug\net7.0\2_varsNDDataTypes.runtimeconfig.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\2_varsNDDataTypes\bin\Debug\net7.0\2_varsNDDataTypes.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\2_varsNDDataTypes\bin\Debug\net7.0\2_varsNDDataTypes.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\2_varsNDDataTypes\obj\Debug\net7.0\2_varsNDDataTypes.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\2_varsNDDataTypes\obj\Debug\net7.0\refint\2_varsNDDataTypes.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\2_varsNDDataTypes\obj\Debug\net7.0\2_varsNDDataTypes.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\2_varsNDDataTypes\obj\Debug\net7.0\2_varsNDDataTypes.genruntimeconfig.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\2_varsNDDataTypes\obj\Debug\net7.0\ref\2_varsNDDataTypes.dll

@@ -1,0 +1,16 @@
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_commends\obj\Debug\net7.0\4_commends.csproj.AssemblyReference.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_commends\obj\Debug\net7.0\4_commends.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_commends\obj\Debug\net7.0\4_commends.AssemblyInfoInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_commends\obj\Debug\net7.0\4_commends.AssemblyInfo.cs
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_commends\obj\Debug\net7.0\4_commends.csproj.CoreCompileInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_commends\bin\Debug\net7.0\4_commends.exe
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_commends\bin\Debug\net7.0\4_commends.deps.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_commends\bin\Debug\net7.0\4_commends.runtimeconfig.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_commends\bin\Debug\net7.0\4_commends.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_commends\bin\Debug\net7.0\4_commends.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_commends\bin\Debug\net7.0\Try.xml
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_commends\obj\Debug\net7.0\4_commends.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_commends\obj\Debug\net7.0\refint\4_commends.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_commends\obj\Debug\net7.0\4_commends.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_commends\obj\Debug\net7.0\4_commends.genruntimeconfig.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_commends\obj\Debug\net7.0\ref\4_commends.dll
