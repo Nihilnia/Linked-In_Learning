@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\_Nihil\\Desktop\\Linked-In_Learning\\C#\\3_operators\\3_operators.csproj",
+      "projectUniqueName": "C:\\Users\\_Nihil\\Desktop\\Linked-In_Learning\\C#\\1_Overview of C#\\3_operators\\3_operators.csproj",
       "projectName": "3_operators",
-      "projectPath": "C:\\Users\\_Nihil\\Desktop\\Linked-In_Learning\\C#\\3_operators\\3_operators.csproj",
+      "projectPath": "C:\\Users\\_Nihil\\Desktop\\Linked-In_Learning\\C#\\1_Overview of C#\\3_operators\\3_operators.csproj",
       "packagesPath": "C:\\Users\\_Nihil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\_Nihil\\Desktop\\Linked-In_Learning\\C#\\3_operators\\obj\\",
+      "outputPath": "C:\\Users\\_Nihil\\Desktop\\Linked-In_Learning\\C#\\1_Overview of C#\\3_operators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\_Nihil\\AppData\\Roaming\\NuGet\\NuGet.Config",

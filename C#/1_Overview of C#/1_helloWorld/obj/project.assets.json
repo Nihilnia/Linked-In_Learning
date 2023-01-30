@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\_Nihil\\Desktop\\Linked-In_Learning\\C#\\1_helloWorld\\1_helloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\_Nihil\\Desktop\\Linked-In_Learning\\C#\\1_Overview of C#\\1_helloWorld\\1_helloWorld.csproj",
       "projectName": "1_helloWorld",
-      "projectPath": "C:\\Users\\_Nihil\\Desktop\\Linked-In_Learning\\C#\\1_helloWorld\\1_helloWorld.csproj",
+      "projectPath": "C:\\Users\\_Nihil\\Desktop\\Linked-In_Learning\\C#\\1_Overview of C#\\1_helloWorld\\1_helloWorld.csproj",
       "packagesPath": "C:\\Users\\_Nihil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\_Nihil\\Desktop\\Linked-In_Learning\\C#\\1_helloWorld\\obj\\",
+      "outputPath": "C:\\Users\\_Nihil\\Desktop\\Linked-In_Learning\\C#\\1_Overview of C#\\1_helloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\_Nihil\\AppData\\Roaming\\NuGet\\NuGet.Config",
