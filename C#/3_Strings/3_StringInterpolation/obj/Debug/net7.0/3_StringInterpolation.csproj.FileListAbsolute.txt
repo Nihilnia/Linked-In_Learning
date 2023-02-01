@@ -1,0 +1,15 @@
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\3_StringInterpolation\bin\Debug\net7.0\3_StringInterpolation.exe
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\3_StringInterpolation\bin\Debug\net7.0\3_StringInterpolation.deps.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\3_StringInterpolation\bin\Debug\net7.0\3_StringInterpolation.runtimeconfig.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\3_StringInterpolation\bin\Debug\net7.0\3_StringInterpolation.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\3_StringInterpolation\bin\Debug\net7.0\3_StringInterpolation.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\3_StringInterpolation\obj\Debug\net7.0\3_StringInterpolation.csproj.AssemblyReference.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\3_StringInterpolation\obj\Debug\net7.0\3_StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\3_StringInterpolation\obj\Debug\net7.0\3_StringInterpolation.AssemblyInfoInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\3_StringInterpolation\obj\Debug\net7.0\3_StringInterpolation.AssemblyInfo.cs
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\3_StringInterpolation\obj\Debug\net7.0\3_StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\3_StringInterpolation\obj\Debug\net7.0\3_StringInterpolation.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\3_StringInterpolation\obj\Debug\net7.0\refint\3_StringInterpolation.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\3_StringInterpolation\obj\Debug\net7.0\3_StringInterpolation.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\3_StringInterpolation\obj\Debug\net7.0\3_StringInterpolation.genruntimeconfig.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\3_StringInterpolation\obj\Debug\net7.0\ref\3_StringInterpolation.dll

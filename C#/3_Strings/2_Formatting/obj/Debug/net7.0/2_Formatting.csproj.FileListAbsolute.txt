@@ -1,0 +1,15 @@
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\2_Formatting\bin\Debug\net7.0\2_Formatting.exe
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\2_Formatting\bin\Debug\net7.0\2_Formatting.deps.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\2_Formatting\bin\Debug\net7.0\2_Formatting.runtimeconfig.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\2_Formatting\bin\Debug\net7.0\2_Formatting.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\2_Formatting\bin\Debug\net7.0\2_Formatting.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\2_Formatting\obj\Debug\net7.0\2_Formatting.csproj.AssemblyReference.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\2_Formatting\obj\Debug\net7.0\2_Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\2_Formatting\obj\Debug\net7.0\2_Formatting.AssemblyInfoInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\2_Formatting\obj\Debug\net7.0\2_Formatting.AssemblyInfo.cs
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\2_Formatting\obj\Debug\net7.0\2_Formatting.csproj.CoreCompileInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\2_Formatting\obj\Debug\net7.0\2_Formatting.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\2_Formatting\obj\Debug\net7.0\refint\2_Formatting.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\2_Formatting\obj\Debug\net7.0\2_Formatting.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\2_Formatting\obj\Debug\net7.0\2_Formatting.genruntimeconfig.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\2_Formatting\obj\Debug\net7.0\ref\2_Formatting.dll
