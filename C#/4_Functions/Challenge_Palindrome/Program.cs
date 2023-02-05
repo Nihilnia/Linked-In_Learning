@@ -7,6 +7,12 @@ Console.WriteLine("Let' s begin!");
 
 void Palindrome(string theText)
 {
+    theText = theText.Replace(" ", "");
+    theText = theText.Replace(".", "");
+    theText = theText.Replace(",", "");
+    theText = theText.Replace("!", "");
+    theText = theText.Replace("'", "");
+
     // string newText = theText.Reverse();
     StringBuilder sb = new StringBuilder();
 
@@ -15,17 +21,10 @@ void Palindrome(string theText)
         sb.Insert(0, f.ToString());
     }
 
-    StringBuilder _sb = new StringBuilder();
-    _sb = sb;
-    _sb.Replace(" ", "");
-    _sb.Replace(".", "");
-    _sb.Replace(",", "");
-    _sb.Replace("!", "");
-    _sb.Replace("'", "");
 
-    System.Console.WriteLine("The text: " + _sb);
-    System.Console.WriteLine(sb);
-    System.Console.WriteLine("New text: " + sb);
+
+    System.Console.WriteLine("Given text: " + theText);
+    System.Console.WriteLine("Reverse text: " + sb);
     System.Console.WriteLine("It is {0}, length: {1}", sb.Equals(theText) ? "Palindrome" : "Not Palindrome", sb.Length);
 };
 
