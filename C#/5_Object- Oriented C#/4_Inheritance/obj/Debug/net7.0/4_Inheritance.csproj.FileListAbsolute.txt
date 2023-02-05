@@ -1,0 +1,15 @@
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\4_Inheritance\obj\Debug\net7.0\4_Inheritance.csproj.AssemblyReference.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\4_Inheritance\obj\Debug\net7.0\4_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\4_Inheritance\obj\Debug\net7.0\4_Inheritance.AssemblyInfoInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\4_Inheritance\obj\Debug\net7.0\4_Inheritance.AssemblyInfo.cs
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\4_Inheritance\obj\Debug\net7.0\4_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\4_Inheritance\bin\Debug\net7.0\4_Inheritance.exe
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\4_Inheritance\bin\Debug\net7.0\4_Inheritance.deps.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\4_Inheritance\bin\Debug\net7.0\4_Inheritance.runtimeconfig.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\4_Inheritance\bin\Debug\net7.0\4_Inheritance.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\4_Inheritance\bin\Debug\net7.0\4_Inheritance.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\4_Inheritance\obj\Debug\net7.0\4_Inheritance.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\4_Inheritance\obj\Debug\net7.0\refint\4_Inheritance.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\4_Inheritance\obj\Debug\net7.0\4_Inheritance.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\4_Inheritance\obj\Debug\net7.0\4_Inheritance.genruntimeconfig.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\4_Inheritance\obj\Debug\net7.0\ref\4_Inheritance.dll

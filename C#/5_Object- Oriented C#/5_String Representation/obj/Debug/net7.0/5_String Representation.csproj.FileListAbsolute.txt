@@ -1,0 +1,15 @@
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\5_String Representation\bin\Debug\net7.0\5_String Representation.exe
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\5_String Representation\bin\Debug\net7.0\5_String Representation.deps.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\5_String Representation\bin\Debug\net7.0\5_String Representation.runtimeconfig.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\5_String Representation\bin\Debug\net7.0\5_String Representation.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\5_String Representation\bin\Debug\net7.0\5_String Representation.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\5_String Representation\obj\Debug\net7.0\5_String Representation.csproj.AssemblyReference.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\5_String Representation\obj\Debug\net7.0\5_String Representation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\5_String Representation\obj\Debug\net7.0\5_String Representation.AssemblyInfoInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\5_String Representation\obj\Debug\net7.0\5_String Representation.AssemblyInfo.cs
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\5_String Representation\obj\Debug\net7.0\5_String Representation.csproj.CoreCompileInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\5_String Representation\obj\Debug\net7.0\5_String Representation.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\5_String Representation\obj\Debug\net7.0\refint\5_String Representation.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\5_String Representation\obj\Debug\net7.0\5_String Representation.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\5_String Representation\obj\Debug\net7.0\5_String Representation.genruntimeconfig.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\5_String Representation\obj\Debug\net7.0\ref\5_String Representation.dll

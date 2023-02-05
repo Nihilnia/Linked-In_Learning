@@ -1,0 +1,15 @@
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\obj\Debug\net7.0\5_Object- Oriented C#.csproj.AssemblyReference.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\obj\Debug\net7.0\5_Object- Oriented C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\obj\Debug\net7.0\5_Object- Oriented C#.AssemblyInfoInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\obj\Debug\net7.0\5_Object- Oriented C#.AssemblyInfo.cs
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\obj\Debug\net7.0\5_Object- Oriented C#.csproj.CoreCompileInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\bin\Debug\net7.0\5_Object- Oriented C#.exe
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\bin\Debug\net7.0\5_Object- Oriented C#.deps.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\bin\Debug\net7.0\5_Object- Oriented C#.runtimeconfig.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\bin\Debug\net7.0\5_Object- Oriented C#.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\bin\Debug\net7.0\5_Object- Oriented C#.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\obj\Debug\net7.0\5_Object- Oriented C#.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\obj\Debug\net7.0\refint\5_Object- Oriented C#.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\obj\Debug\net7.0\5_Object- Oriented C#.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\obj\Debug\net7.0\5_Object- Oriented C#.genruntimeconfig.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\obj\Debug\net7.0\ref\5_Object- Oriented C#.dll

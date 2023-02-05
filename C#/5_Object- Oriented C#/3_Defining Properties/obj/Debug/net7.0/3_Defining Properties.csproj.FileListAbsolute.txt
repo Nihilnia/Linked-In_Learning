@@ -1,0 +1,15 @@
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\3_Defining Properties\obj\Debug\net7.0\3_Defining Properties.csproj.AssemblyReference.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\3_Defining Properties\obj\Debug\net7.0\3_Defining Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\3_Defining Properties\obj\Debug\net7.0\3_Defining Properties.AssemblyInfoInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\3_Defining Properties\obj\Debug\net7.0\3_Defining Properties.AssemblyInfo.cs
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\3_Defining Properties\obj\Debug\net7.0\3_Defining Properties.csproj.CoreCompileInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\3_Defining Properties\bin\Debug\net7.0\3_Defining Properties.exe
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\3_Defining Properties\bin\Debug\net7.0\3_Defining Properties.deps.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\3_Defining Properties\bin\Debug\net7.0\3_Defining Properties.runtimeconfig.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\3_Defining Properties\bin\Debug\net7.0\3_Defining Properties.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\3_Defining Properties\bin\Debug\net7.0\3_Defining Properties.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\3_Defining Properties\obj\Debug\net7.0\3_Defining Properties.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\3_Defining Properties\obj\Debug\net7.0\refint\3_Defining Properties.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\3_Defining Properties\obj\Debug\net7.0\3_Defining Properties.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\3_Defining Properties\obj\Debug\net7.0\3_Defining Properties.genruntimeconfig.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\5_Object- Oriented C#\3_Defining Properties\obj\Debug\net7.0\ref\3_Defining Properties.dll

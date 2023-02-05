@@ -17,6 +17,25 @@ namespace try_1
 
             Console.ReadKey();
 
+    }
+    }
+
+    public class User
+    {
+        string _UserName;
+        string _Password;
+        bool _isActive;
+
+        public User(string UserName, string Password, bool isActive)
+        {
+            _UserName = UserName;
+            _Password = Password;
+            _isActive = isActive;
+        }
+
+        public void Introduce()
+        {
+            System.Console.WriteLine($"Username: {_UserName}, Password: {_Password}, Active: {_isActive}");
         }
     }
 }

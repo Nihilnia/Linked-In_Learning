@@ -21,8 +21,6 @@ void Palindrome(string theText)
         sb.Insert(0, f.ToString());
     }
 
-
-
     System.Console.WriteLine("Given text: " + theText);
     System.Console.WriteLine("Reverse text: " + sb);
     System.Console.WriteLine("It is {0}, length: {1}", sb.Equals(theText) ? "Palindrome" : "Not Palindrome", sb.Length);
