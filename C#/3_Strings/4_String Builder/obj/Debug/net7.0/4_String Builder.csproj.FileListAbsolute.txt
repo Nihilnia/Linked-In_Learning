@@ -1,0 +1,15 @@
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\4_String Builder\obj\Debug\net7.0\4_String Builder.csproj.AssemblyReference.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\4_String Builder\obj\Debug\net7.0\4_String Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\4_String Builder\obj\Debug\net7.0\4_String Builder.AssemblyInfoInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\4_String Builder\obj\Debug\net7.0\4_String Builder.AssemblyInfo.cs
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\4_String Builder\obj\Debug\net7.0\4_String Builder.csproj.CoreCompileInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\4_String Builder\bin\Debug\net7.0\4_String Builder.exe
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\4_String Builder\bin\Debug\net7.0\4_String Builder.deps.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\4_String Builder\bin\Debug\net7.0\4_String Builder.runtimeconfig.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\4_String Builder\bin\Debug\net7.0\4_String Builder.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\4_String Builder\bin\Debug\net7.0\4_String Builder.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\4_String Builder\obj\Debug\net7.0\4_String Builder.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\4_String Builder\obj\Debug\net7.0\refint\4_String Builder.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\4_String Builder\obj\Debug\net7.0\4_String Builder.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\4_String Builder\obj\Debug\net7.0\4_String Builder.genruntimeconfig.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\4_String Builder\obj\Debug\net7.0\ref\4_String Builder.dll

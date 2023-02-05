@@ -1,0 +1,15 @@
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\Challenge_Palindrome\obj\Debug\net7.0\Challenge_Palindrome.csproj.AssemblyReference.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\Challenge_Palindrome\obj\Debug\net7.0\Challenge_Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\Challenge_Palindrome\obj\Debug\net7.0\Challenge_Palindrome.AssemblyInfoInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\Challenge_Palindrome\obj\Debug\net7.0\Challenge_Palindrome.AssemblyInfo.cs
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\Challenge_Palindrome\obj\Debug\net7.0\Challenge_Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\Challenge_Palindrome\bin\Debug\net7.0\Challenge_Palindrome.exe
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\Challenge_Palindrome\bin\Debug\net7.0\Challenge_Palindrome.deps.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\Challenge_Palindrome\bin\Debug\net7.0\Challenge_Palindrome.runtimeconfig.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\Challenge_Palindrome\bin\Debug\net7.0\Challenge_Palindrome.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\Challenge_Palindrome\bin\Debug\net7.0\Challenge_Palindrome.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\Challenge_Palindrome\obj\Debug\net7.0\Challenge_Palindrome.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\Challenge_Palindrome\obj\Debug\net7.0\refint\Challenge_Palindrome.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\Challenge_Palindrome\obj\Debug\net7.0\Challenge_Palindrome.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\Challenge_Palindrome\obj\Debug\net7.0\Challenge_Palindrome.genruntimeconfig.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\Challenge_Palindrome\obj\Debug\net7.0\ref\Challenge_Palindrome.dll

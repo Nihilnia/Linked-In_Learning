@@ -1,0 +1,15 @@
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\5_String Parsing\bin\Debug\net7.0\5_String Parsing.exe
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\5_String Parsing\bin\Debug\net7.0\5_String Parsing.deps.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\5_String Parsing\bin\Debug\net7.0\5_String Parsing.runtimeconfig.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\5_String Parsing\bin\Debug\net7.0\5_String Parsing.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\5_String Parsing\bin\Debug\net7.0\5_String Parsing.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\5_String Parsing\obj\Debug\net7.0\5_String Parsing.csproj.AssemblyReference.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\5_String Parsing\obj\Debug\net7.0\5_String Parsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\5_String Parsing\obj\Debug\net7.0\5_String Parsing.AssemblyInfoInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\5_String Parsing\obj\Debug\net7.0\5_String Parsing.AssemblyInfo.cs
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\5_String Parsing\obj\Debug\net7.0\5_String Parsing.csproj.CoreCompileInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\5_String Parsing\obj\Debug\net7.0\5_String Parsing.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\5_String Parsing\obj\Debug\net7.0\refint\5_String Parsing.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\5_String Parsing\obj\Debug\net7.0\5_String Parsing.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\5_String Parsing\obj\Debug\net7.0\5_String Parsing.genruntimeconfig.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\3_Strings\5_String Parsing\obj\Debug\net7.0\ref\5_String Parsing.dll

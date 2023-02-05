@@ -1,0 +1,8 @@
+C:\Users\_Nihil\Desktop\Linked-In_Learning\try_1\obj\Debug\try_1.csproj.AssemblyReference.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\try_1\obj\Debug\try_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\try_1\obj\Debug\try_1.csproj.CoreCompileInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\try_1\bin\Debug\try_1.exe.config
+C:\Users\_Nihil\Desktop\Linked-In_Learning\try_1\bin\Debug\try_1.exe
+C:\Users\_Nihil\Desktop\Linked-In_Learning\try_1\bin\Debug\try_1.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\try_1\obj\Debug\try_1.exe
+C:\Users\_Nihil\Desktop\Linked-In_Learning\try_1\obj\Debug\try_1.pdb

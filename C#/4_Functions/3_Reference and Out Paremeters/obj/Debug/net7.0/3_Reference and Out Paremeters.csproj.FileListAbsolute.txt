@@ -1,0 +1,15 @@
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\3_Reference and Out Paremeters\bin\Debug\net7.0\3_Reference and Out Paremeters.exe
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\3_Reference and Out Paremeters\bin\Debug\net7.0\3_Reference and Out Paremeters.deps.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\3_Reference and Out Paremeters\bin\Debug\net7.0\3_Reference and Out Paremeters.runtimeconfig.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\3_Reference and Out Paremeters\bin\Debug\net7.0\3_Reference and Out Paremeters.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\3_Reference and Out Paremeters\bin\Debug\net7.0\3_Reference and Out Paremeters.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\3_Reference and Out Paremeters\obj\Debug\net7.0\3_Reference and Out Paremeters.csproj.AssemblyReference.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\3_Reference and Out Paremeters\obj\Debug\net7.0\3_Reference and Out Paremeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\3_Reference and Out Paremeters\obj\Debug\net7.0\3_Reference and Out Paremeters.AssemblyInfoInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\3_Reference and Out Paremeters\obj\Debug\net7.0\3_Reference and Out Paremeters.AssemblyInfo.cs
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\3_Reference and Out Paremeters\obj\Debug\net7.0\3_Reference and Out Paremeters.csproj.CoreCompileInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\3_Reference and Out Paremeters\obj\Debug\net7.0\3_Reference and Out Paremeters.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\3_Reference and Out Paremeters\obj\Debug\net7.0\refint\3_Reference and Out Paremeters.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\3_Reference and Out Paremeters\obj\Debug\net7.0\3_Reference and Out Paremeters.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\3_Reference and Out Paremeters\obj\Debug\net7.0\3_Reference and Out Paremeters.genruntimeconfig.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\3_Reference and Out Paremeters\obj\Debug\net7.0\ref\3_Reference and Out Paremeters.dll

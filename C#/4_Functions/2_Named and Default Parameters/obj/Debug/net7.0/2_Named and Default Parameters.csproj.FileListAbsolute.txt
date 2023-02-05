@@ -1,0 +1,15 @@
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\2_Named and Default Parameters\bin\Debug\net7.0\2_Named and Default Parameters.exe
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\2_Named and Default Parameters\bin\Debug\net7.0\2_Named and Default Parameters.deps.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\2_Named and Default Parameters\bin\Debug\net7.0\2_Named and Default Parameters.runtimeconfig.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\2_Named and Default Parameters\bin\Debug\net7.0\2_Named and Default Parameters.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\2_Named and Default Parameters\bin\Debug\net7.0\2_Named and Default Parameters.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\2_Named and Default Parameters\obj\Debug\net7.0\2_Named and Default Parameters.csproj.AssemblyReference.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\2_Named and Default Parameters\obj\Debug\net7.0\2_Named and Default Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\2_Named and Default Parameters\obj\Debug\net7.0\2_Named and Default Parameters.AssemblyInfoInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\2_Named and Default Parameters\obj\Debug\net7.0\2_Named and Default Parameters.AssemblyInfo.cs
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\2_Named and Default Parameters\obj\Debug\net7.0\2_Named and Default Parameters.csproj.CoreCompileInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\2_Named and Default Parameters\obj\Debug\net7.0\2_Named and Default Parameters.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\2_Named and Default Parameters\obj\Debug\net7.0\refint\2_Named and Default Parameters.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\2_Named and Default Parameters\obj\Debug\net7.0\2_Named and Default Parameters.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\2_Named and Default Parameters\obj\Debug\net7.0\2_Named and Default Parameters.genruntimeconfig.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\2_Named and Default Parameters\obj\Debug\net7.0\ref\2_Named and Default Parameters.dll

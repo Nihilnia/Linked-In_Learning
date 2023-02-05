@@ -1,0 +1,15 @@
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\4_Returning Multiple Values\obj\Debug\net7.0\4_Returning Multiple Values.csproj.AssemblyReference.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\4_Returning Multiple Values\obj\Debug\net7.0\4_Returning Multiple Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\4_Returning Multiple Values\obj\Debug\net7.0\4_Returning Multiple Values.AssemblyInfoInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\4_Returning Multiple Values\obj\Debug\net7.0\4_Returning Multiple Values.AssemblyInfo.cs
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\4_Returning Multiple Values\obj\Debug\net7.0\4_Returning Multiple Values.csproj.CoreCompileInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\4_Returning Multiple Values\bin\Debug\net7.0\4_Returning Multiple Values.exe
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\4_Returning Multiple Values\bin\Debug\net7.0\4_Returning Multiple Values.deps.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\4_Returning Multiple Values\bin\Debug\net7.0\4_Returning Multiple Values.runtimeconfig.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\4_Returning Multiple Values\bin\Debug\net7.0\4_Returning Multiple Values.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\4_Returning Multiple Values\bin\Debug\net7.0\4_Returning Multiple Values.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\4_Returning Multiple Values\obj\Debug\net7.0\4_Returning Multiple Values.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\4_Returning Multiple Values\obj\Debug\net7.0\refint\4_Returning Multiple Values.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\4_Returning Multiple Values\obj\Debug\net7.0\4_Returning Multiple Values.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\4_Returning Multiple Values\obj\Debug\net7.0\4_Returning Multiple Values.genruntimeconfig.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\4_Returning Multiple Values\obj\Debug\net7.0\ref\4_Returning Multiple Values.dll

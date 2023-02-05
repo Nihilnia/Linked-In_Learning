@@ -1,0 +1,15 @@
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\1_Function Basics\bin\Debug\net7.0\1_Function Basics.exe
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\1_Function Basics\bin\Debug\net7.0\1_Function Basics.deps.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\1_Function Basics\bin\Debug\net7.0\1_Function Basics.runtimeconfig.json
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\1_Function Basics\bin\Debug\net7.0\1_Function Basics.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\1_Function Basics\bin\Debug\net7.0\1_Function Basics.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\1_Function Basics\obj\Debug\net7.0\1_Function Basics.csproj.AssemblyReference.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\1_Function Basics\obj\Debug\net7.0\1_Function Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\1_Function Basics\obj\Debug\net7.0\1_Function Basics.AssemblyInfoInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\1_Function Basics\obj\Debug\net7.0\1_Function Basics.AssemblyInfo.cs
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\1_Function Basics\obj\Debug\net7.0\1_Function Basics.csproj.CoreCompileInputs.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\1_Function Basics\obj\Debug\net7.0\1_Function Basics.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\1_Function Basics\obj\Debug\net7.0\refint\1_Function Basics.dll
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\1_Function Basics\obj\Debug\net7.0\1_Function Basics.pdb
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\1_Function Basics\obj\Debug\net7.0\1_Function Basics.genruntimeconfig.cache
+C:\Users\_Nihil\Desktop\Linked-In_Learning\C#\4_Functions\1_Function Basics\obj\Debug\net7.0\ref\1_Function Basics.dll
