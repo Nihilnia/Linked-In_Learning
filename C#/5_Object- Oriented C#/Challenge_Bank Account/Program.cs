@@ -24,7 +24,6 @@ namespace Defining
             //Withdrawal
             System.Console.WriteLine(bankAcc_01.Withdrawal(44));
             System.Console.WriteLine(bankAcc_01.ToString());
-
         }
     }
 }
