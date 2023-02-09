@@ -4,10 +4,10 @@ namespace Defining
     {
 
         public string _Name;
-        public decimal _Total;
+        public double _Total;
         public bool _isActive;
 
-        public BankAccount(string Name, bool isActive, decimal Total)
+        public BankAccount(string Name = "Unknown acc name", bool isActive = false, double Total = 0.00)
         {
             _Name = Name;
             _Total = Total;
