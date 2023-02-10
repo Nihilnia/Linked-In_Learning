@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../../style.css">
+
+    <script src="../../jquery-3.6.3.min.js"></script>
+
+    <script>
+
+        $("document").ready(function () {
+            console.log("Ready to go.");
+
+            $("body").prepend("<button id = 'btnClear'>Clear</button>")
+
+            //terminal
+            var terminal = $("#terminal");
+            terminal.css("background-color", "black");
+            terminal.css("width", "800px");
+            terminal.css("height", "200px");
+
+            var terminalText = $("#terminalText");
+            terminalText.css("margin-right", "40px;");
+
+            const currentTermial = terminal;
+            console.log(currentTermial);
+            $("#btnClear").on("click", function () {
+                terminal.html($("#terminal").css("background-color", "black").css("width", "800px").css("height", "200px"));
+
+            })
+
+            var lineKey = 0;
+
+            //event
+            function scrollMovements(f) {
+                terminal.css("height", "auto");
+                var info = `<text id = 'terminalText' style = 'color: #64d86b; margin-left: 20px;'>
+                    Axis X: <strong>${f.offsetX}</strong>, 
+                    Axis Y: <strong>${f.offsetY}</strong>
+                    </text>`;
+                terminal.prepend(info);
+                lineKey++;
+                if (lineKey % 3 == 0) {
+                    console.log("Key is: ", lineKey, "prepend.");
+                    terminal.prepend("<br/>")
+                }
+
+
+            }
+
+            //Applying
+            // terminal.on("mousemove", scrollMovements);
+            //or
+            terminal.mousemove(scrollMovements);
+        });
+
+
+
+
+    </script>
+</head>
+
+<body>
+    <div id="terminal"></div>
+</body>
+
+</html>
