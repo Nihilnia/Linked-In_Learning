@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AAAAAAAAAAA</title>
+
+    <link rel="stylesheet" href="../../style.css">
+
+    <script src="../../jquery-3.6.3.min.js"></script>
+
+    <script>
+        $("#document").ready(function () {
+            let xKey = 0;
+
+            console.log("Ready to go.");
+
+            var exBtn = "<button id='tired'>Click me ikr</button>";
+            $("#cont").append(exBtn);
+
+            $("#cont").append("<button id='clear'>Clear</button>");
+            $("#cont").append("<button id='reset'>Reset</button>");
+
+            $("#clear").click(() => {
+                $("#location").text("");
+                console.clear();
+            });
+
+            $("#reset").click(() => {
+                console.log("a");
+                xKey += 9999990;
+            });
+
+            //Event
+            var key = 0;
+            $("#tired").click(function (x, y) {
+                if (key != 10) {
+                    console.log(x, "Electro swing.", key++);
+                } else {
+                    console.clear();
+                }
+
+            });
+
+            var lineKey = 0;
+            //Exercise
+            function exerciseMouse(f) {
+
+                console.log("OffsetX: ", f.offsetX);
+                console.log("OffsetY: ", f.offsetY);
+                console.log("Key: ", key++, "\n\n");
+
+                //$("#location").append("OffsetX: ", f.offsetX, "OffsetY: ", f.offsetY);
+                $("#location").prepend(`<text style = 'color: #64d86b; margin-left: 20px;'>OffsetX: ${f.offsetX} OffsetY: ${f.offsetY}</text>`);
+
+                lineKey += 1;
+
+                if (lineKey % 3 == 0) {
+                    $("#location").prepend(`<br/> Move count: ${lineKey}`);
+                }
+
+                $("#location").css("height", "auto")
+
+                console.log(lineKey);
+
+            };
+
+            $("#location").mousemove(exerciseMouse);
+            $("#location").mouseleave(function () {
+
+            });
+
+        });
+    </script>
+</head>
+
+<body>
+    <div id="first" class="Glr">first Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat asperiores quasi
+        dolorem
+        quaerat
+        sit, aspernatur obcaecati dolore ad quae officiis tempore, totam in nam. Consequuntur cumque quia quaerat
+        doloribus ad.</div>
+
+    <div id="second" class="Glr">second Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat asperiores
+        quasi dolorem
+        quaerat
+        sit, aspernatur obcaecati dolore ad quae officiis tempore, totam in nam. Consequuntur cumque quia quaerat
+        doloribus ad.</div>
+
+    <div id="third">third ipsum dolor sit amet consectetur adipisicing elit. Placeat asperiores quasi dolorem quaerat
+        sit, aspernatur obcaecati dolore ad quae officiis tempore, totam in nam. Consequuntur cumque quia quaerat
+        doloribus ad.</div>
+
+    <div id="location" style="height: 200px; background-color:black;"></div>
+
+
+
+    <div id="cont"></div>
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="../../style.css">
+
+    <script src="../../jquery-3.6.3.min.js"></script>
+
+    <script>
+        $("#document").ready(function () {
+            console.log("Ready to go.");
+
+            $("#second").css("border", "1px solid red");
+
+            //Creating an element
+            var exLink = "<h5 id='GLR'>Supermassive Black Hole</a>";
+
+            $("#second").append(exLink);
+
+            $("#GLR").css("background-color", "gray");
+
+
+            //html-
+            $("#GLR").html("<p>Anotha one</p>")
+
+            //prepend, opposite of the append, adding the given argument/ s to the beginning
+            $("#GLR").prepend("<p>P R E P E N D</p>")
+
+            //text
+            $("#GLR").text("<p>Anotha one</p>")
+        });
+    </script>
+</head>
+
+<body>
+    <div id="first" class="Glr">first Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat asperiores quasi
+        dolorem
+        quaerat
+        sit, aspernatur obcaecati dolore ad quae officiis tempore, totam in nam. Consequuntur cumque quia quaerat
+        doloribus ad.</div>
+
+    <div id="second" class="Glr">second Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat asperiores
+        quasi dolorem
+        quaerat
+        sit, aspernatur obcaecati dolore ad quae officiis tempore, totam in nam. Consequuntur cumque quia quaerat
+        doloribus ad.</div>
+
+    <div id="third">third ipsum dolor sit amet consectetur adipisicing elit. Placeat asperiores quasi dolorem quaerat
+        sit, aspernatur obcaecati dolore ad quae officiis tempore, totam in nam. Consequuntur cumque quia quaerat
+        doloribus ad.</div>
+
+    <div id="cont"></div>
+</body>
+
+</html>

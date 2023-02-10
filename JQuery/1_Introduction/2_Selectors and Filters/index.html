@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="../../style.css">
+
+    <script src="../../jquery-3.6.3.min.js"></script>
+
+    <script>
+        $("#document").ready(function () {
+            console.log("Ready to go.");
+            $("#cont").append("<h3>Hello world</h3>");
+
+            // Filtering all the div tags and applying a css
+            $("div").css("border", "1px solid red");
+
+            //Filtering a spesific tag and applying css
+            $("#second").css("background-color", "yellow");
+
+
+            //Filtering first <div> tag and applying css
+            $("div:first").css("font-weight", "bold");
+
+            //Filtering <div> tag/ s which has not 'that' class name and applying css
+            $("div:not(.Glr)").css("background-color", "gray");
+
+
+        });
+    </script>
+</head>
+
+<body>
+    <div id="first" class="Glr">first Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat asperiores quasi
+        dolorem
+        quaerat
+        sit, aspernatur obcaecati dolore ad quae officiis tempore, totam in nam. Consequuntur cumque quia quaerat
+        doloribus ad.</div>
+
+    <div id="second" class="Glr">second Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat asperiores
+        quasi dolorem
+        quaerat
+        sit, aspernatur obcaecati dolore ad quae officiis tempore, totam in nam. Consequuntur cumque quia quaerat
+        doloribus ad.</div>
+
+    <div id="third">third ipsum dolor sit amet consectetur adipisicing elit. Placeat asperiores quasi dolorem quaerat
+        sit, aspernatur obcaecati dolore ad quae officiis tempore, totam in nam. Consequuntur cumque quia quaerat
+        doloribus ad.</div>
+
+    <div id="cont"></div>
+</body>
+
+</html>
