@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AAAAAAAAAAA</title>
+
+    <link rel="stylesheet" href="../../style.css">
+
+    <script src="../../jquery-3.6.3.min.js"></script>
+
+    <script>
+        $("document").ready(function () {
+            console.log("Ready to go.");
+
+            $("#getText").click(getContent);
+            $("#loadHTML").click(loadHTML);
+            $("#btnClear").click(clear);
+
+            function getContent() {
+                $.ajax("GLR.txt",
+                    {
+                        success: setContent,
+                        type: "GET",
+                        dataType: "text"
+                    });
+            };
+
+            function setContent(data, status, jqxhr) {
+                $("#location").append(`${data}<br/>`);
+            };
+
+            function loadHTML() {
+                $("#location").load("sampleIndex.html");
+            };
+
+            function clear() {
+                $("#location").text("");
+            };
+
+        });
+    </script>
+</head>
+
+<body>
+
+    <div id="location" style="height: 200px; background-color:black;"></div>
+    <button id="getText">get text</button>
+    <button id="loadHTML">load HTML</button>
+    <button id="btnClear">Clear</button>
+
+</body>
+
+</html>

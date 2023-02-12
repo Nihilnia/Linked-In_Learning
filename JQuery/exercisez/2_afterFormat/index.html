@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../../style.css">
+
+    <script src="../../jquery-3.6.3.min.js"></script>
+
+    <script>
+        $("document").ready(function () {
+
+            console.log("Ready to go.");
+
+            //Terminal
+            var terminal = $("#terminal");
+            terminal.css("height", "200px").css("background-color", "black");
+
+            var key = 0;
+            //Function
+            function MouseDetection(f) {
+                terminal.css("height", "auto");
+
+                var X = f.offsetX;
+                var Y = f.offsetY;
+
+
+
+                if (key % 3 == 0) {
+                    terminal.prepend("<br/>");
+                }
+
+                terminal.prepend(`<text style = "margin-right: 20px; color: #64d86b;">Axis X: ${X}, Axis Y: ${Y}`);
+                key++;
+
+                console.log("Key: ", key);
+            };
+
+            //exFunction
+            function exFunction() {
+                console.log("AAA");
+            };
+
+            //Mouse event handler
+            terminal.mousemove(MouseDetection);
+            terminal.mousemove(exFunction);
+        });
+
+
+
+
+    </script>
+</head>
+
+<body>
+    <div id="terminal"></div>
+</body>
+
+</html>
