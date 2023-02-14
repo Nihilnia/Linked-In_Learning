@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Selectors</title>
+
+    <link rel="stylesheet" href="../../style.css">
+
+    <script src="../../jquery-3.6.3.min.js"></script>
+
+    <script>
+        $("document").ready(function () {
+
+            console.log("Ready");
+
+            //Contains
+            $("p:contains('Lorem')").css("color", "red");
+
+            //Parent
+            $("p:parent").css("background-color", "gray");
+
+
+            //Has
+            $("div:has(span[class=c])").css("border", "1px solid yellow");
+
+            //Child
+            $("div p:first-child").css("color", "blue");
+
+        });
+    </script>
+</head>
+
+<body>
+
+    <p id="firstPara" class="firstClassLMAO">firstPara_ Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
+        aliquam quia, eos
+        accusamus
+        dolores, necessitatibus, natus unde sunt sequi dolorem nam rem modi soluta quae velit veniam veritatis quod
+        earum?</p>
+
+    <p id="secondPara" class="secondClassLMAO">secondPara_ Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Ducimus
+        aliquam quia, eos accusamus
+        dolores, necessitatibus, natus unde sunt sequi dolorem nam rem modi soluta quae velit veniam veritatis quod
+        earum?</p>
+
+    <span class="secondClassLMAO">BBBBBBBBBBBBBBB</span>
+    <p></p>
+    <p id="n">Nihil asdkhgashjf </p>
+
+
+    <p id="thirdPara" class="thirdClassLMAO">thirdPara_ Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
+        aliquam quia, eos
+        accusamus
+        dolores, necessitatibus, natus unde sunt sequi dolorem nam rem modi soluta quae velit veniam veritatis quod
+        earum?</p>
+
+
+    <div id="div1">
+        <span class="a">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit quia facilis veniam perferendis
+            sapiente, ab tenetur! Tempora maiores iure earum ut nostrum amet cupiditate, eligendi quaerat labore tenetur
+            sequi blanditiis?</span>
+        <span class="b">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit quia facilis veniam perferendis
+            sapiente, ab tenetur! Tempora maiores iure earum ut nostrum amet cupiditate, eligendi quaerat labore tenetur
+            sequi blanditiis?</span>
+    </div>
+
+    <div id="div2">
+        <span class="a">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit quia facilis veniam perferendis
+            sapiente, ab tenetur! Tempora maiores iure earum ut nostrum amet cupiditate, eligendi quaerat labore tenetur
+            sequi blanditiis?</span>
+        <span class="b">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit quia facilis veniam perferendis
+            sapiente, ab tenetur! Tempora maiores iure earum ut nostrum amet cupiditate, eligendi quaerat labore tenetur
+            sequi blanditiis?</span>
+        <span class="c">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit quia facilis veniam perferendis
+            sapiente, ab tenetur! Tempora maiores iure earum ut nostrum amet cupiditate, eligendi quaerat labore tenetur
+            sequi blanditiis?</span>
+    </div>
+
+
+</body>
+
+</html>

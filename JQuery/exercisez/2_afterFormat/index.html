@@ -33,20 +33,40 @@
                     terminal.prepend("<br/>");
                 }
 
-                terminal.prepend(`<text style = "margin-right: 20px; color: #64d86b;">Axis X: ${X}, Axis Y: ${Y}`);
+                terminal.prepend(`<text style = "margin-right: 20px; color: #64d86b;">Axis X: ${X}, Axis Y: ${Y}</text>`);
                 key++;
+
+
+                if (key % 2 == 0) {
+                    makeEmRed();
+                } else {
+                    makeEmGreen();
+                };
+
 
                 console.log("Key: ", key);
             };
 
-            //exFunction
+            //exFunction/ s
             function exFunction() {
                 console.log("AAA");
             };
 
+            function makeEmRed() {
+                $("text").css("color", "#FF0037");
+            };
+            function makeEmGreen() {
+                $("text").css("color", "#64d86b");
+            };
+
+
+
             //Mouse event handler
             terminal.mousemove(MouseDetection);
             terminal.mousemove(exFunction);
+
+
+
         });
 
 

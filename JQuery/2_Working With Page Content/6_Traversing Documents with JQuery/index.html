@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Selectors</title>
+
+    <link rel="stylesheet" href="../../style.css">
+
+    <script src="../../jquery-3.6.3.min.js"></script>
+
+    <script>
+        $("document").ready(function () {
+
+            console.log("doc ready");
+
+            $("#container").children().css("border", "1px solid red");
+
+            //Js
+            var allThePs = document.querySelectorAll("p");
+            allThePs.forEach((x, y) => {
+                console.log(`${y}.Element: ${x}`);
+            });
+
+            //Query
+            var allThePs_2 = $("p");
+            allThePs_2.each(function (index, element) {
+                console.log(index, element);
+            })
+
+
+        });
+    </script>
+</head>
+
+<body>
+
+
+    <div id="container">
+        <p class="try">Lorem1</p>
+        <p class="try">Lorem2</p>
+        <p class="try">Lorem3</p>
+        <p class="try">Lorem4</p>
+    </div>
+
+
+</body>
+
+</html>

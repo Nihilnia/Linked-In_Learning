@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Selectors</title>
+
+    <link rel="stylesheet" href="../../style.css">
+
+    <script src="../../jquery-3.6.3.min.js"></script>
+
+    <script>
+        $("document").ready(function () {
+
+            console.log("Ready");
+            $("p[id=deneme]").css("border", "1px solid yellow");
+            $("p#deneme").css("border", "1px solid red");
+
+
+            //starts with
+            $("p[id^=dene]").css("border", "1px solid gray");
+
+            //contains
+            $("p[id^=dene][lang*=en-]").css("border", "1px solid gray");
+
+
+
+        });
+    </script>
+</head>
+
+<body>
+
+    <p id="firstPara" class="firstClassLMAO">firstPara_ Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
+        aliquam quia, eos
+        accusamus
+        dolores, necessitatibus, natus unde sunt sequi dolorem nam rem modi soluta quae velit veniam veritatis quod
+        earum?</p>
+
+    <p id="secondPara" class="secondClassLMAO">secondPara_ Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Ducimus
+        aliquam quia, eos accusamus
+        dolores, necessitatibus, natus unde sunt sequi dolorem nam rem modi soluta quae velit veniam veritatis quod
+        earum?</p>
+
+    <span class="secondClassLMAO">BBBBBBBBBBBBBBB</span>
+
+    <p id="thirdPara" class="thirdClassLMAO">thirdPara_ Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
+        aliquam quia, eos
+        accusamus
+        dolores, necessitatibus, natus unde sunt sequi dolorem nam rem modi soluta quae velit veniam veritatis quod
+        earum?</p>
+
+    <p id="deneme">asdasd</p>
+</body>
+
+</html>

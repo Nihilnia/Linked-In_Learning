@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Selectors</title>
+
+    <link rel="stylesheet" href="../../style.css">
+
+    <script src="../../jquery-3.6.3.min.js"></script>
+
+    <script>
+        $("document").ready(function () {
+
+            console.log("Ready");
+
+            //:first
+            //:last
+            //:even
+            //:odd
+
+            //:gt() -greaterThen
+            //:lt() -lessThen
+            //:eq() -equal
+
+            //Select em all with tag name
+            jQuery("p").css("border", "1px solid red");
+
+            //Select an identifier
+            $("#firstPara").css("background-color", "gray");
+
+            //Select a class
+            $(".firstClassLMAO").css("color", "yellow");
+
+            //Tag with className
+            $("p.secondClassLMAO").append("AAAAAAAAAAAAAA");
+
+            //Tag with id and class
+            $("p#firstPara.firstClassLMAO").append("AAAAAAAAAAAAAA");
+
+            //ALL THE ELEMENTS IN THE PAGE
+            $("*").css("margin", "100px");
+
+
+        });
+    </script>
+</head>
+
+<body>
+
+    <p id="firstPara" class="firstClassLMAO">firstPara_ Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
+        aliquam quia, eos
+        accusamus
+        dolores, necessitatibus, natus unde sunt sequi dolorem nam rem modi soluta quae velit veniam veritatis quod
+        earum?</p>
+
+    <p id="secondPara" class="secondClassLMAO">secondPara_ Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Ducimus
+        aliquam quia, eos accusamus
+        dolores, necessitatibus, natus unde sunt sequi dolorem nam rem modi soluta quae velit veniam veritatis quod
+        earum?</p>
+
+    <span class="secondClassLMAO">BBBBBBBBBBBBBBB</span>
+
+    <p id="thirdPara" class="thirdClassLMAO">thirdPara_ Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
+        aliquam quia, eos
+        accusamus
+        dolores, necessitatibus, natus unde sunt sequi dolorem nam rem modi soluta quae velit veniam veritatis quod
+        earum?</p>
+
+
+</body>
+
+</html>
