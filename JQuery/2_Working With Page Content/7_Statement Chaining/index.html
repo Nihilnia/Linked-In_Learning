@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statement Chaining</title>
+
+    <link rel="stylesheet" href="../../style.css">
+
+    <script src="../../jquery-3.6.3.min.js"></script>
+
+    <script>
+        $("document").ready(function () {
+
+            console.log("doc ready");
+
+            var container = $("#container");
+
+            //try
+            function f1() {
+                console.log("a");
+                container.append("<p>F1</p>");
+            };
+
+            function f2() {
+                container.prepend("<p>F2</p>");
+            };
+
+            function f3() {
+                container.prepend("<p>F3</p>");
+            };
+
+            // $("#container").css("color", "red")
+            //     .slideUp(2000)
+            //     .slideDown(2000);
+
+            $("#container .try").each(function (x, y) {
+                $(y).css("color", "red")
+                    .css("font-size", "50px")
+                    .slideUp(2000)
+                    .slideDown(2000);
+            });
+
+
+        });
+    </script>
+</head>
+
+<body>
+
+
+    <div id="container">
+        <p class="try">Lorem1</p>
+        <p class="try">Lorem2</p>
+        <p class="try">Lorem3</p>
+        <p class="try">Lorem4</p>
+    </div>
+
+
+</body>
+
+</html>
