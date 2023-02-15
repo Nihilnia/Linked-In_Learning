@@ -16,19 +16,13 @@
 
             console.log("doc ready");
 
-            $("#container").children().css("border", "1px solid red");
+            $("#container").find(".try3").css("border", "1px solid red");
+            console.log($("#container").find(".try3"));
 
-            //Js
-            var allThePs = document.querySelectorAll("p");
-            allThePs.forEach((x, y) => {
-                console.log(`${y}.Element: ${x}`);
+            var key = 10;
+            $("#container .try").each(function (x, y) {
+                $(y).css("margin-left", `${key += 100}px`);
             });
-
-            //Query
-            var allThePs_2 = $("p");
-            allThePs_2.each(function (index, element) {
-                console.log(index, element);
-            })
 
 
         });
@@ -41,7 +35,7 @@
     <div id="container">
         <p class="try">Lorem1</p>
         <p class="try">Lorem2</p>
-        <p class="try">Lorem3</p>
+        <p class="try3">Lorem3</p>
         <p class="try">Lorem4</p>
     </div>
 
